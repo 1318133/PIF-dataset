@@ -19,4 +19,4 @@ Image type: intensity images (s), degree of linear polarization (DoLP), angle of
 The code is available only for research purpose. (The relevant paper is about to be published.)
 
 # contributor 
-Jinyang Liu, Jinxuan Yang (jingxuan@hnu.edu.cn), and kaihua xiao. Institution: The Key Laboratory of Visual Perception and Artificial Intelligence of Hunan Province, Hunan University.
+Jinyang Liu, Jingxuan Yang (jingxuan@hnu.edu.cn), and kaihua xiao. Institution: The Key Laboratory of Visual Perception and Artificial Intelligence of Hunan Province, Hunan University.
