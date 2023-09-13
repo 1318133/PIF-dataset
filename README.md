@@ -1,4 +1,4 @@
-![例图](https://github.com/1318133/PIF-dataset/assets/144504927/c2c23fbe-d0e4-4564-b6bf-a4343eefb419)# PIF-dataset
+![Uploading example.png…]()
 PIF-dataset: Polarization Image Fusion Dataset. It includes intensity images, degree of linear polarization images, angle of linear polarization images,and intensity images with 4 different polarization directions.
 
 # Camera parameters
@@ -12,8 +12,8 @@ Number of image pairs: 74;
 Image type: intensity images (s), degree of linear polarization (DoLP), angle of linear polarization (AoLP), intensity images with 4 different polarization directions (0,45,90,135);
 
 # Dataset download
-(baidu)  Link: https://pan.baidu.com/s/1HHWta2pDtzhjgKNLkPVBKg ;
-                 code: ev4f ;
+(baidu)  Link: https://pan.baidu.com/s/1XTQTSlaP-dWYSWgyMB8wfw  ;
+         code: nxsu ;
 
 # Reference
 The code is available only for research purpose. (The relevant paper is about to be published.)
