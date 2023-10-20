@@ -4,7 +4,7 @@ PIF-dataset: Polarization Image Fusion Dataset. It includes intensity images, de
 # Camera parameters
 Name: MER-502-79U3M POL;
 Resolution: 1024*1224;
-Wavelength: 390780 nm;
+Wavelength: 390~780 nm;
 Polarization pattern ：0, 45, 90, 135;
 
 # Dataset Introduction
