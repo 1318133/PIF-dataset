@@ -13,8 +13,8 @@ Image type: intensity images (s), degree of linear polarization (DoLP), angle of
 Number of image pairs for saliency detection: 20;  
 
 # Dataset download
-(baidu)  Link: https://pan.baidu.com/s/1XTQTSlaP-dWYSWgyMB8wfw ;  
-         code: nxsu ;  
+(baidu)   
+Link: https://pan.baidu.com/s/16MeMpdNSdf80RGZg1fogOQ code: 3h8r  
 
 # Reference
 The code is available only for research purpose. If you need to use our dataset, please refer to:  
